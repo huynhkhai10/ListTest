@@ -415,7 +415,7 @@ https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 
 #EXTINF:0 tvg-id="kpm"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusSportCinema.png",K+Sport Cinema HD
-https://media.publit.io/file/h_1080/KenhChuaLenSong.mp4
+https://hls.c1.omlet.gg/live/C3TQJKCNJ32VD4QPZYU2FTMQ2RBAR5QCW6O4AID65YRGH5SURR2A/playlist.m3u8?sc=TWO&cdn=NginxCNC
 #EXTINF:0 tvg-id="k1"    group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusCine.png",K+Cine HD
 https://media.publit.io/file/h_1080/KPlusCine.mp4
 #EXTINF:0 tvg-id="kns"   group-title="K+" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/KPlusLogo/main/KPlusLife.png",K+Life HD
