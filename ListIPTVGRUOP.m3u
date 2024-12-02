@@ -353,7 +353,7 @@ https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 
 
 #EXTINF:-1 tvg-id="sctv1hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV1_HD.png", SCTV1 HD - Hài
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv1/sd1/index.m3u8?md5=pGyKSYjrGrL2ZLYg-J8v_g&expires=2556118740|Referer=http://sctvonline.vn/
+https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV2_HD.png", SCTV2 HD - Net Start
 https://livecdn.fptplay.net/sda/sctv2_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIzOTc5MzgsICJyZXNvdXJjZV9pZCI6ICJzY3R2Ml8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImMwMDUyNjAxYWUyNjE2ZDMxNTU3MWUwZDdkMDcwNTM1IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNDg0MzM4LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
 #EXTINF:-1 tvg-id="sctv3hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV3_HD.png", SCTV3 HD - See TV
