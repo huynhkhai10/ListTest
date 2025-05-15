@@ -3,7 +3,7 @@
 
 
 #EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV1_HD_M.png",VTV1 FHD
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0djEtaGQiLCAicm1pcCI6ICIxMjUuMjM1LjIzNi45MCIsICJ1c2VyX2lkIjogMzAxMzc3MiwgInRpbWVzdGFtcCI6IDE2MjY2NjIxNzN9&user_id=4748331
+https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:0 tvg-id="vtv2hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV2_HD_M.png",VTV2 FHD
 https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZ0djItaGQiLCAicm1pcCI6ICIxMjUuMjM1LjIzNi45MCIsICJ1c2VyX2lkIjogMzAxMzc3MiwgInRpbWVzdGFtcCI6IDE2MjY2NjIyMTJ9&user_id=4748331
 #EXTINF:0 tvg-id="vtv3hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV3_HD_M.png",VTV3 FHD
