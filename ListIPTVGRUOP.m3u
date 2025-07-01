@@ -350,11 +350,11 @@ https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 
 
 #EXTINF:-1 tvg-id="sctv1hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV1_HD.png", SCTV1 HD - Hài
-https://s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctv1/index.m3u8|Referer=http://sctvonline.vn/
+https://s4.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1751380261/ON-Hv8POFENe_mNFInUlvb9aFLQ/e11.endpoint.cdn.sctvonline.vn/nginx.s11.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/1/NbmEtuDvgFW4r36kaUobQA/1751475600/anonymous/live/sctv1/text/playlist.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV2_HD.png", SCTV2 HD - Net Start
 https://livecdn.fptplay.net/sda/sctv2_2000.stream/playlist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE2MTIzOTc5MzgsICJyZXNvdXJjZV9pZCI6ICJzY3R2Ml8yMDAwIiwgInBhcnRuZXJfaWQiOiAiNTcxM2JlOGMwN2U0MmVkNGI5MTYzODhlIiwgInRva2VuIjogImMwMDUyNjAxYWUyNjE2ZDMxNTU3MWUwZDdkMDcwNTM1IiwgInZhbGlkX21pbnV0ZXMiOiAxNjEyNDg0MzM4LCAicm1pcCI6ICIxMjUuMjM1LjIzNy42In0=&user_id=4748331
 #EXTINF:-1 tvg-id="sctv3hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV3_HD.png", SCTV3 HD - See TV
-https://e1.endpoint.cdn.sctvonline.vn/secure/sctv3/sd1/index.m3u8?md5=-RE2AlRfyZP_ntu4aRKUMA&expires=2556118740|Referer=http://sctvonline.vn/
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v3/1751380174/DT5VhzKmTpAtqKsFrHeu_SOqzLg/e8.endpoint.cdn.sctvonline.vn/nginx.s3.edge.cdn.sctvonline.vn/cdn-secure/v1/sctvonline/2/QnGSfZ2jZus6V-9dq7u1Kg/1751475600/anonymous/live/hls/sctv3/01.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd"  group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV4_HD.png", SCTV4 HD - Giải Trí
 https://e1.endpoint.cdn.sctvonline.vn/secure/sctv4/sd1/index.m3u8?md5=VvFuYftKuNK8bzBSxxbb0g&expires=2556118740|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5".   group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/SCTVLogoVn/main/SCTV5.png", SCTV5 - SCJ TV HomeShopping
@@ -436,172 +436,154 @@ https://qpvn.vn/live/qpvn/video1_stream.m3u8
 
 
 #EXTINF:-1 tvg-id="btv1"group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/18/457256-BTV1.png",BTV1
-https://vtvgolive-liveh34.vtvdigital.vn/hls/BINHDUONGTV/01.m3u8
+
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://img.hplus.com.vn/728x409/banner/2018/06/18/981238-444791-BTV2.png",BTV2
-https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/BTV3.png/revision/latest?cb=20210124151314",BTV3
-https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/playlist.m3u8?token=eyJjaGFubmVsX2lkIjogImJpbmgtZHVvbmctMyIsICJybWlwIjogIjEyNS4yMzUuMjM3LjE2MCIsICJ1c2VyX2lkIjogMzAxMzc3MiwgInRpbWVzdGFtcCI6IDE2Mjk4MTUwNTd9&user_id=4748331
-#EXTINF:-1  group-title="Địa Phương" tvg-logo="http://img.hplus.com.vn/355x200/poster/2017/08/09/958404-imovie-btv4.png",BTV4 FHD
-https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="https://rsstv.gviet.vn/sctv/159/130/1581298778597.png",BTV9 - An Viên TV
-https://livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="HANOITV 1" group-title="Địa Phương" tvg-logo="https://i.imgur.com/BUsJR8d.png",Hà Nội 1 HD
-https://livetv.hanoitv.vn/hanoi1.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/hls/HANOI1TV/03.m3u8
 #EXTINF:-1 tvg-id="HANOITV 2" group-title="Địa Phương" tvg-logo="https://i.imgur.com/XfkC7BY.png",Hà Nội 2 HD
-https://livecdn.fptplay.net/sdc/hanoitv2_2000.stream/playlist.m3u8
-
+https://vtvgolive-liveh12.vtvdigital.vn/hls/HANOI2TV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BPTV1.png", Bình Phước 1
-https://livecdn.fptplay.net/sdc/binhphuoc1_2000.stream/playlist.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/hls/BINHPHUOCTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BPTV2.png", Bình Phước 2 - HOME TV
-https://livecdn.fptplay.net/sdc/binhphuoc2_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/ANT_BPTV3.png/revision/latest?cb=20200117064304vi", Bình Phước 3 - ANT Thiếu Nhi
-https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/playlist.m3u8
-#https://media.publit.io/file/h_1080/tinnhanthegiaima.mp4
 
 #EXTINF:-1 tvg-id="TH DA NANG "group-title="Địa Phương" tvg-logo="http://www.drt.danang.vn/images/drt1.png",Đà Nẵng 1
-https://livecdn.fptplay.net/sdc/danang1_2000.stream/playlist.m3u8
+https://vtvgolive-liveh12.vtvdigital.vn/hls/DANANGTV/03.m3u8
 #EXTINF:-1 group-title="Địa Phương" tvg-logo="http://www.drt.danang.vn/images/drt2.png",Đà Nẵng 2
-https://livecdn.fptplay.net/sdc/danang2_2000.stream/playlist.m3u8
 
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DBTV.png",Điện Biên
-https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
+https://vtvgolive-camau.vtvdigital.vn/kenhdp/dienbientv_720p.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HGTVDB.png",Hà Giang
-https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+https://vtvgolive-liveh12.vtvdigital.vn/hls/HAGIANGTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CBTV.png",Cao Bằng
-https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/PTV.png",Phú Thọ HD
-https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
+https://vtvgolive-liveh12.vtvdigital.vn/hls/PHUTHOTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HDTV.png",Hải Dương
-https://livecdn.fptplay.net/sdc/haiduong_2000.stream/chunklist.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/hls/HAIDUONGTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THHN.png",Hà Nam
-https://livecdn.fptplay.net/sda/hanam_2000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NDTV.png",Nam Định
-https://livecdn.fptplay.net/sdc/namdinh_2000.stream/chunklist.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/hls/NAMDINHTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/QBTV.png",Quảng Bình
-https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8
+https://media.qbtv.vn/LiveApp/streams/UfqMzQUuZFxD69275138146969.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TTHTV.png",Thừa Thiên Huế
 https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8?
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BDTV.png",Bình Định
-https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/chunklist_1.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/PTP.png",Phú Yên
-https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DRT.png",Đắk Lắk
-https://livecdn.fptplay.net/sdc/daklak_2000.stream/chunklist.m3u8
+https://vtvgolive-daklak.vtvdigital.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THLC.png",Lào Cai
-https://livecdn.fptplay.net/sdc/laocai_2000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/SLTV.png",Sơn La
-https://livecdn.fptplay.net/sdc/sonla_2000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HBTV.png",Hòa Bình
-https://livecdn.fptplay.net/sda/hoabinh_2000.stream/chunklist.m3u8
+https://hbtvlive.3ssoft.vn/hoabinhtv/chunklist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/QRTV.png",Quảng Trị
-https://livecdn.fptplay.net/sdc/quangtri_2000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/PTQ.png",Quảng Ngãi
-https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
+
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NTTV.png",Ninh Thuận HD
-https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/YBTV.png", Yên Bái
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TQTV.png", Tuyên Quang
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TN1.png", Thái Nguyên 1
+https://vtvgolive-liveh34.vtvdigital.vn/hls/THAINGUYENTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TN2.png", Thái Nguyên 2
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LSTV.png", Lạng Sơn
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20210529095744&path-prefix=vi", Quảng Ninh 1
+https://vtvgolive-liveh12.vtvdigital.vn/hls/QUANGNINHTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/QTV3.png/revision/latest?cb=20210529101536&path-prefix=vi", Quảng Ninh 3
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BNTV.png", Bắc Ninh
+https://vtvgolive-liveh12.vtvdigital.vn/hls/BACNINHTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THP.png", Hải Phòng
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THPPlus.png", Hải Phòng Plus
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HYTV.png", Hưng Yên
+https://vtvgolive-liveh12.vtvdigital.vn/hls/HUNGYENTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TBTV.png" ,Thái Bình
+https://vtvgolive-liveh34.vtvdigital.vn/hls/THAIBINHTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/VP.png", Vĩnh Phúc
+https://vtvgolive-liveh34.vtvdigital.vn/hls/VINHPHUCTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BGTV.png", Bắc Giang
+https://vtvgolive-liveh12.vtvdigital.vn/hls/BACGIANGTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NBTV.png", Ninh Bình
+https://vtvgolive-liveh12.vtvdigital.vn/hls/NINHBINHTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTVDB.png", Thanh Hóa
+https://vtvgolive-liveh12.vtvdigital.vn/hls/THANHHOATV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NATV.png", Nghệ An
+https://vtvgolive-liveh34.vtvdigital.vn/hls/NGHEANTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HTTV.png", Hà Tĩnh
+https://vtvgolive-ott3.vtvdigital.vn/live/hatinhtv/chunklist_2.m3u8
+#EXTINF:0 tvg-id=" "group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/QNTV.png",Quảng Nam
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BTTV.png", Bình Thuận
+https://vtvgolive-liveh34.vtvdigital.vn/hls/BINHTHUANTV/03.m3u8
+#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://kontumtv.vn/wp-content/uploads/2020/12/logo.png", Kon Tum
+
+#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/LTV_lai_chau_alt.png/revision/latest?cb=20210716102428&path-prefix=vi", Lai Châu
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LDTV.png", Lâm Đồng
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DN1.png", Đồng Nai 1
+https://vtvgolive-liveh12.vtvdigital.vn/hls/DONGNAITV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DN2.png", Đồng Nai 2
+
+#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THGL.png", Gia Lai
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TTV11.png", Tây Ninh
+https://vtvgolive-liveh34.vtvdigital.vn/hls/TAYNINHTV/03.m3u8
 
 #EXTINF:-1 tvg-id="THVL1HD" tvg-name="THVL1 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Logo_THVL1_HD.png",Vĩnh Long 1 FHD
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInRodmwxIiwgInJtaXAiOiAiMTI1LjIzNS4yMzYuOTAiLCAidXNlcl9pZCI6IDMwMTM3NzIsICJ0aW1lc3RhbXAiOiAxNjI2NjYzNDExfQ&user_id=4748331
+https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="THVL2HD" tvg-name="THVL2 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/Logo_THVL2_HD.png",Vĩnh Long 2 FHD
-https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0yIiwgInJtaXAiOiAiMTI1LjIzNS4yMzYuOTAiLCAidXNlcl9pZCI6IDMwMTM3NzIsICJ0aW1lc3RhbXAiOiAxNjI2NjYzNDQ4fQ&user_id=4748331
+https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="THVL3 HD" tvg-name="THVL3 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/Logo_THVL3_HD.png",Vĩnh Long 3 FHD
-https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8?token=eyJjaGFubmVsX2lkIjogInZpbmgtbG9uZy0zIiwgInJtaXAiOiAiMTI1LjIzNS4yMzYuOTAiLCAidXNlcl9pZCI6IDMwMTM3NzIsICJ0aW1lc3RhbXAiOiAxNjI2NjYzNDcyfQ&user_id=4748331
+https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="Địa Phương" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Logo_THVL4_HD.png",Vĩnh Long 4 HD
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KGTV.png", Kiên Giang
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/KIENGIANG-SD-ABR/HTV-ABR/KIENGIANG-SD-720p/chunks.m3u8?signKey=eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJuYW1lIjoiMTI1LjIzNS4yMzYuMTkxIiwiZW1haWwiOiJlbWFpbEBleGFtcGxlLmNvbSIsInBob25lIjoiMDk4NzY1NDMyMSIsImFwcF9jb2RlIjoiaHR2YyIsImNoYW5uZWxfY29kZSI6IlZUVjEiLCJhcHBfdXNlcl9pZCI6IjEyNS4yMzUuMjM2LjE5MSIsImlhdCI6MTYzOTE3OTcyMX0.IuUU-tYo69YTx9mttWx6ydQG593zf5uybxhcdYPZKHt4jJBLnQVXOcMNInA7MXQFkcG2gGkXaxXvQyCx1SMWkpU8I3YNjkMnMUON9HM-6G22dXZc1J0fat5VmF-eiTusZjeTYvoPwEwLssnLOpfPMZzJFq8mAcpg3Q2coW7K9TolfTmb4mGlyvVWDtKHBst9xR6EvAeMuIrtch2XbZfEMHhHVOApQY8nmbyE7XOXkkDanTZg6K5pOXa3T0NAnoBP77_Zle7oSjqpXTuqH29e5kcT9FaOmsJmqosZ_ABET46OLV43WsMWod-kyRllNM7Qpu_F5tCqwrNmPaPtSNelmEOh1ssVa3KJmqDwnKEElV1EsLxFX8O5mfAfFkFb3ty1EH5RFKEcZgqAySuqvH_9yq4-44T5UREDt9tOfIHYzhjXtHiJKUt7cEpP0Tz0Z0LUoVIsmNdvhO8SpSXmU8DATkd8HA5_Ax30ub9MJOAiodlvq_jtRdekewVCHfB5SGM4Onr8noc0H2PNrRAhPqqRSSZdDokR9n_r1hBDPBKidN5jTUKho1_opBPJFnftv1uxIxjWgmm43wiqKxl3blE-3Q3SswYG6Lmwxkpr95FdeTG1Rl3_65bYkaKZbxLNNwre65l7mwO0bfpZgdmLu5AYLTsSOy8zfChACEDTzoAJMH8
-#https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+https://tv.angiangtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/AGTV.png" ,An Giang
+https://vtvgolive-liveh12.vtvdigital.vn/hls/ANGIANGTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KGTV1.png", Kiên Giang 1
-https://livecdn.fptplay.net/sda/kiengiang_2000.stream/playlist.m3u8
-
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT1.png", Đồng Tháp 1
-https://livecdn.fptplay.net/sdc/dongthap_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImRvbmd0aGFwXzIwMDAuc3RyZWFtIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2MzkxNDQ1NDYsICJoYXNoX3NlY3JldCI6ICJkMzU3ODU5MGY2NmI1YjA5NDdiZGQwOTdlNThhYzIxMSIsICJybWlwIjogIjEyNS4yMzUuMjM3LjYwIn0
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
-http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/YBTV.png", Yên Bái
-https://livecdn.fptplay.net/sdc/yenbai_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TQTV.png", Tuyên Quang
-https://live.tuyenquangtv.vn/hls/ttv.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TN1.png", Thái Nguyên 1
-https://streaming.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TN2.png", Thái Nguyên 2
-https://mziyw7t0yhliv.vcdn.cloud/live/thainguyen2/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LSTV.png", Lạng Sơn
-http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a9/QTV1.png/revision/latest?cb=20210529095744&path-prefix=vi", Quảng Ninh 1
-http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7d/QTV3.png/revision/latest?cb=20210529101536&path-prefix=vi", Quảng Ninh 3
-http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BNTV.png", Bắc Ninh
-https://livecdn.fptplay.net/sdc/bacninh_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImJhY25pbmhfMjAwMC5zdHJlYW0iLCAiaXNwIjogInZpZXR0ZWwiLCAidGltZXN0YW1wIjogMTYzOTE0NDMwOSwgImhhc2hfc2VjcmV0IjogImMwZjQ2Yzg4NTM4NzQxNjk0NjFhNDc5Yjg3ZWE5NGQ2IiwgInJtaXAiOiAiMTI1LjIzNS4yMzcuNjAifQ
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THP.png", Hải Phòng
-https://live.thhp.vn/thp/index.m3u8?1
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THPPlus.png", Hải Phòng Plus
-https://live.thhp.vn/hls/thpplus/index.m3u8?1
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HYTV.png", Hưng Yên
-https://livecdn.fptplay.net/sdc/hungyen_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImh1bmd5ZW5fMjAwMC5zdHJlYW0iLCAiaXNwIjogInZpZXR0ZWwiLCAidGltZXN0YW1wIjogMTYzOTE0NDIzNywgImhhc2hfc2VjcmV0IjogImJlOGIxNGQzMjM0M2VkMDAyMzc5NzRmNzIzY2NlMzhjIiwgInJtaXAiOiAiMTI1LjIzNS4yMzcuNjAifQ
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TBTV.png" ,Thái Bình
-http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/VP.png", Vĩnh Phúc
-http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BGTV.png", Bắc Giang
-http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NBTV.png", Ninh Bình
-https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTVDB.png", Thanh Hóa
-https://livecdn.fptplay.net/sda/thanhhoa_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogInRoYW5oaG9hXzIwMDAuc3RyZWFtIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2MzkxODE0NjUsICJoYXNoX3NlY3JldCI6ICI4MThjZjY3ZTgxYzI5MTFmYmU0YjRiOWM0YmFkMmIzZiIsICJybWlwIjogIjEyNS4yMzUuMjM2LjE5MSJ9
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/NATV.png", Nghệ An
-https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HTTV.png", Hà Tĩnh
-https://livecdn.fptplay.net/sdc/hatinh_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImhhdGluaF8yMDAwLnN0cmVhbSIsICJpc3AiOiAidmlldHRlbCIsICJ0aW1lc3RhbXAiOiAxNjM5MTQ0MTE5LCAiaGFzaF9zZWNyZXQiOiAiM2NmMmJkOWYwOTViMDQ5NTBkMWM1Nzg3OWQ4MzczZDQiLCAicm1pcCI6ICIxMjUuMjM1LjIzNy42MCJ9
-#EXTINF:0 tvg-id=" "group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/QNTV.png",Quảng Nam
-http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BTTV.png", Bình Thuận
-https://livecdn.fptplay.net/sdc/binhthuan_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImJpbmh0aHVhbl8yMDAwLnN0cmVhbSIsICJpc3AiOiAidmlldHRlbCIsICJ0aW1lc3RhbXAiOiAxNjM5MTQ0MDc2LCAiaGFzaF9zZWNyZXQiOiAiNTdkOTQzNTYwNGY5Y2FmNzcyMzFlNGY5NDgwZTU0YzkiLCAicm1pcCI6ICIxMjUuMjM1LjIzNy42MCJ9
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BinhThuan6.jpeg", Bình Thuận 6 - Quê Hương Shop
-https://livecdn.fptplay.net/sdb/quehuongshop_hls.smil/chunklist_b2500000.m3u8?token=eyJjaGFubmVsX2lkIjogInF1ZS1odW9uZy1ob21lc2hvcHBpbmciLCAicm1pcCI6ICIxMjUuMjM1LjIzNy4xNjAiLCAidXNlcl9pZCI6IDMwMTM3NzIsICJ0aW1lc3RhbXAiOiAxNjI5ODE1MTI2fQ&user_id=4748331
-#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://kontumtv.vn/wp-content/uploads/2020/12/logo.png", Kon Tum
-https://livecdn.fptplay.net/sdc/kontum_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImtvbnR1bV8yMDAwLnN0cmVhbSIsICJpc3AiOiAidmlldHRlbCIsICJ0aW1lc3RhbXAiOiAxNjM5MTQ1MDYxLCAiaGFzaF9zZWNyZXQiOiAiYWQ2NWY1NTg1ZTAzNjFkOTQ3NjA0N2QwYTdiNWZhMDciLCAicm1pcCI6ICIxMjUuMjM1LjIzNy42MCJ9
-#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/LTV_lai_chau_alt.png/revision/latest?cb=20210716102428&path-prefix=vi", Lai Châu
-https://livecdn.fptplay.net/sdc/laichau_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImxhaWNoYXVfMjAwMC5zdHJlYW0iLCAiaXNwIjogInZpZXR0ZWwiLCAidGltZXN0YW1wIjogMTYzOTE0NTIyMCwgImhhc2hfc2VjcmV0IjogIjQxMzE0MTU0OGRjYWZlZDNhNzNkMmE5OGViYzI0NDEwIiwgInJtaXAiOiAiMTI1LjIzNS4yMzcuNjAifQ
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LDTV.png", Lâm Đồng
-https://livecdn.fptplay.net/sdc/lamdong_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DN1.png", Đồng Nai 1
-https://livecdn.fptplay.net/sda/dongnai1_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImRvbmduYWkxXzIwMDAuc3RyZWFtIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2MzkxNDM5ODcsICJoYXNoX3NlY3JldCI6ICI2YjliMWU0NTE3ZDlhNDg1ODBhNjcyMDdlMjRjODFjNyIsICJybWlwIjogIjEyNS4yMzUuMjM3LjYwIn0
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/DN2.png", Đồng Nai 2
-https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
-#EXTINF:0 tvg-id="" group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THGL.png", Gia Lai
-https://livecdn.fptplay.net/sda/gialai_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImdpYWxhaV8yMDAwLnN0cmVhbSIsICJpc3AiOiAidmlldHRlbCIsICJ0aW1lc3RhbXAiOiAxNjM5MTcyMjQ4LCAiaGFzaF9zZWNyZXQiOiAiNGU0MDg3YjFiMjY1M2NiZjliZmViODIxNzdhZGQ0Y2IiLCAicm1pcCI6ICIxMjUuMjM1LjIzNi4xOTEifQ
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/TTV11.png", Tây Ninh
-https://livecdn.fptplay.net/sda/tayninhhd_2000.stream/playlist.m3u8
+https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THBT.png", Bến Tre
-https://livecdn.fptplay.net/sdc/bentre_2000.stream/playlist.m3u8
+https://vtvgolive-ott3.vtvdigital.vn/live/bentretv/chunklist_2.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/KTV.png", Khánh Hòa
-https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImtoYW5oaG9hXzIwMDAuc3RyZWFtIiwgImlzcCI6ICJ2aWV0dGVsIiwgInRpbWVzdGFtcCI6IDE2MzkxNDQ5OTEsICJoYXNoX3NlY3JldCI6ICIxYmYzOGE5YTlhOTJjMDg4Njg0Yjg0YzE1YWY5YzZkZCIsICJybWlwIjogIjEyNS4yMzUuMjM3LjYwIn0
+https://vtvgolive-liveh12.vtvdigital.vn/hls/KHANHHOATV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTPCT.png", Cần Thơ
-https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LA34.png", Long An
-https://livecdn.fptplay.net/sdc/longan_2000.stream/playlist.m3u8?token=eyJ1c2VyX2lkIjogMzAxMzc3MiwgImNoYW5uZWxfdXJsIjogImxvbmdhbl8yMDAwLnN0cmVhbSIsICJpc3AiOiAidmlldHRlbCIsICJ0aW1lc3RhbXAiOiAxNjM5MTQ0OTMxLCAiaGFzaF9zZWNyZXQiOiAiYjg4YTQ1YzRjYTMyYTUwZTEwYjAzNmY5MWY4ZDY2YjAiLCAicm1pcCI6ICIxMjUuMjM1LjIzNy42MCJ9
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTG.png", Tiền Giang
-http://123.25.238.45:1935/live/thtg2/chunklist_w1969993628.m3u8
+https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/STV1.png", Sóc Trăng 1
-https://pa.thst.vn/liveevent.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/hls/SOCTRANGTV/03.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/STV2.png", Sóc Trăng 2
-https://pa.thst.vn/liveeventstv2.m3u8
+https://pa.thst.vn/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
 #EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/HGTV.png", Hậu Giang
 https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BRT.png",Bà Rịa - Vũng Tàu HD 
-https://livecdn.fptplay.net/sdc/bariavungtau_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTVTV.jpg",Trà Vinh HD
-https://livecdn.fptplay.net/sdc/travinh_1000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BLTV.png",Bạc Liêu HD
-https://livecdn.fptplay.net/sdc/baclieu_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
-https://livecdn.fptplay.net/sdc/camau_2000.stream/playlist.m3u8
-#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/AGTV.png" ,An Giang
-https://livecdn.fptplay.net/sda/angiang_2000.stream/playlist.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/LA34.png", Long An
+https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTG.png", Tiền Giang
 
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT1.png", Đồng Tháp 1
+https://vtvgolive-liveh12.vtvdigital.vn/hls/DONGTHAPTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THDT2.png", Đồng Tháp 2 - Miền Tây
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BRT.png",Bà Rịa - Vũng Tàu HD 
+https://vtvgolive-liveh34.vtvdigital.vn/hls/VUNGTAUTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/THTVTV.jpg",Trà Vinh HD
+https://vtvgolive-liveh34.vtvdigital.vn/hls/TRAVINHTV/03.m3u8
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/BLTV.png",Bạc Liêu HD
+https://vtvgolive-liveh12.vtvdigital.vn/hls/BACLIEUTV/03.m3u8
+
+#EXTINF:0 group-title="Địa Phương" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoDiaPhuongVn/main/CMTV.png",Cà Mau
+https://vtvgolive-camau.vtvdigital.vn/kenhdp/camautv_720p.m3u8
